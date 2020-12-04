@@ -1,3 +1,6 @@
+## :wave: Hey There!
+I create ASP.NET Core applications using Razor, Blazor, WebAPI, and MVC. I love the dotnet framwork, and am constantly learning new querks it has to offer. I love open-source software, and am a hard believer for open-surce.
+
 ### :wrench: Tools & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
